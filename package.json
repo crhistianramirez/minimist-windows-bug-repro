@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Bug for windows arguments wrapped in single quotes add extra characters",
   "dependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.2"
   },
   "scripts": {
     "repro": "node repro 'wraps-with-extra-characters'"
